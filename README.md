@@ -81,3 +81,13 @@ Welcome to the Machine Learning Projects Repository! This repository contains a 
 ### Project 19: Breast Cancer Classification
 - **Description:** Classifying breast cancer tumors as malignant or benign.
 - **Techniques Used:** Logistic Regression
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me:
+
+- **Email**: mihirjobs218@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/mihir-shah-400755186/
+- **GitHub**: https://github.com/Mojo11
+
+Thank you for visiting my repository!
